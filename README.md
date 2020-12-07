@@ -21,3 +21,9 @@ Proposal Presentation: https://docs.google.com/presentation/d/16mepiLlbj7pVkfbf7
 
 For more information on the COVA analysis tool refer here: https://github.com/secure-software-engineering/COVA
 
+
+## Files for Software 
+
+Download <a href = "https://github.com/Kshitij05/Educative-Visualization-COVA-CMPUT416F20/blob/main/An%20Educative%20Visualization%20of%20COVA%20(WebMobile%20Software).zip">this</a> file if you want to access files used in Web/Mobile based visualization. Alternatively, you can access the website <a href = "http://cmput416.tij-sachdeva.com/story_html5.html">here</a>. 
+
+<a href=https://github.com/Kshitij05/Educative-Visualization-COVA-CMPUT416F20/blob/main/An%20Educative%20Visualization%20of%20COVA%20(SCORM).zip"">This zip file consists of SCORM package, that can be downloaded to publish the software in online class portal (such as Moodle). 
