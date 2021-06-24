@@ -1,6 +1,5 @@
 # CMPUT416 Fall 2020 Research Project
 
-Access Web Based Software Here: http://cmput416.tij-sachdeva.com/story_html5.html
 
 Team members:
   - Tij Sachdeva (ksachdev)
